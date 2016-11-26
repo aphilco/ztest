@@ -1,2 +1,11 @@
+learn git
+learn git branch and checkout master
+learn git merge branch
+<<<<<<< HEAD
 learn git 
 checkout master 
+=======
+learn git
+learn git branch
+
+>>>>>>> edit1txt
