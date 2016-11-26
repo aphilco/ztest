@@ -1,6 +1,7 @@
 learn git
 learn git branch and checkout master
-learn git merge branch
+learn git merge branch xx
+bug001 edit xx
 <<<<<<< HEAD
 learn git 
 checkout master 
